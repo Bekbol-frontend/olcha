@@ -1,0 +1,542 @@
+{
+  "banner": [
+    {
+      "url": "https://olcha.uz/image/1400x360/sliders/ru/AvOFUyRuqF0qyf3Jvzm0QhGZWM8kkGdGlHXZxiHInFkpfq4dcvsAS4u30eTz."
+    },
+    {
+      "url": "https://olcha.uz/image/1400x360/sliders/ru/MHg1LXLtzAYrrbmB1vp7FVzHTiIai74H4k00n03nKE402nzzAe251eyCsCmi.jpeg"
+    },
+    {
+      "url": "https://olcha.uz/image/1400x360/sliders/ru/Uqk5APiLaXURtV7kWDHZ4WLd5Dy5zd9uTMfRdLFl1PBjcUR8GP2on4eGxkzk."
+    },
+    {
+      "url": "https://olcha.uz/image/1400x360/sliders/ru/BLM3PZpfJzcQpbKD8ktsxXZybwPOHjShm2DalpEeSpYy04vKUeW37rfQAnGp."
+    },
+    {
+      "url": "https://olcha.uz/image/1400x360/sliders/ru/hGwl7LdZ4PHz5UVJFsLQRS89yKThXbxkRqrGOxY7ebNvo6rW8TPAPpeUX7R4."
+    },
+    {
+      "url": "https://olcha.uz/image/1400x360/sliders/ru/55duvcdTLcZvkrf2LaHmWe3ZIGuVdOGeXb6ouW9mHLYwDwRvzcVHkaBYpuRe.jpeg"
+    },
+    {
+      "url": "https://olcha.uz/image/1400x360/sliders/ru/fwuNMeIFt1g8hz0CKilAI42YNJF3VMzsbAOJ06lGzm5Q48HM0UA0QfWvgZqK.jpeg"
+    },
+    {
+      "url": "https://olcha.uz/image/1400x360/sliders/ru/JzJehNPOuP0aMZPvykw9N4qKcqFozxg71x7VaRZWxkBYh6TSflCOzaecNi8k."
+    }
+  ],
+
+  "miniBanner": [
+    {
+      "url": "https://olcha.uz/image/380x132/discount/KK/Ko/Kg/1659170821.png"
+    },
+    {
+      "url": "https://olcha.uz/image/380x132/discount/KK/Ko/Kt/1659174079.png"
+    },
+    {
+      "url": "https://olcha.uz/image/380x132/discount/KK/KK/ci/1637741582.jpg"
+    }
+  ],
+
+  "reklama": [
+    {
+      "url": "https://olcha.uz/image/380x132/discount/KK/Kh/L2/1659419395.png"
+    },
+    {
+      "url": "https://olcha.uz/image/380x132/discount/KK/KK/c1/1635851437.png"
+    }
+  ],
+
+  "brends": [
+    {
+      "url": "https://olcha.uz/uploads/images/manufacturer/KK/KK/Kh/1646038495.jpg",
+      "brandName": "apple"
+    },
+    {
+      "url": "https://olcha.uz/uploads/images/manufacturer/KK/KK/Ko/1646038649.jpg",
+      "brandName": "samsung"
+    },
+    {
+      "url": "https://olcha.uz/uploads/images/manufacturer/KK/KK/Kd/1646038705.jpg",
+      "brandName": "sony"
+    },
+    {
+      "url": "https://olcha.uz/uploads/images/manufacturer/KK/KK/Kp/1646038892.jpg",
+      "brandName": "xiaomi"
+    },
+    {
+      "url": "https://olcha.uz/uploads/images/manufacturer/KK/KK/Kc/1646039131.jpg",
+      "brandName": "acer"
+    },
+    {
+      "url": "https://olcha.uz/uploads/images/manufacturer/KK/KK/KO/1646039181.jpg",
+      "brandName": "asus"
+    },
+    {
+      "url": "https://olcha.uz/uploads/images/manufacturer/KK/KK/K6/1646039238.jpg",
+      "brandName": "hp"
+    },
+    {
+      "url": "https://olcha.uz/uploads/images/manufacturer/KK/KK/K-/1646039310.jpg",
+      "brandName": "lenovo"
+    },
+    {
+      "url": "https://olcha.uz/uploads/images/manufacturer/KK/KK/KR/1646039445.jpg",
+      "brandName": "philips"
+    }
+  ],
+
+  "categories": [
+    {
+      "categoriImgUrl": "https://olcha.uz/image/60x50/category/M90cCGAT8ARmlnxJzt5sH4cTD4eBUjWocRW36j69zghIlMA6leRkjL9mvoBr.png",
+      "categoriTitle": "Смартфоны, телефоны, гаджеты, аксессуары",
+      "id": "telefony-gadzhety-aksessuary"
+    },
+    {
+      "categoriImgUrl": "https://olcha.uz/image/60x50/category/gTEdspBADkaKoLWlt6Tyc1XrGeJAiyfd8zwwP52GBOFDtAVnVtj4jDOwbCMz.png",
+      "categoriTitle": "Бытовая техника",
+      "id": "bytovaya-tekhnika-dlya-doma"
+    },
+    {
+      "categoriImgUrl": "https://olcha.uz/image/60x50/category/LMk7YuQAzKqsUIBDfr4jRA2IEFsLPsyFkWAWFHYkwlQZ8WRVvWut5Heb8Dju.png",
+      "categoriTitle": "Ноутбуки, принтеры, компьютеры",
+      "id": "noutbuki-planshety-kompyutery"
+    },
+    {
+      "categoriImgUrl": "https://olcha.uz/image/60x50/category/odtXyERULXCcAjKtJEb0kH7XBV0InZmmqAwRqk24I1zqtITNExpsa7wto6uN.png",
+      "categoriTitle": "Книги",
+      "id": "knigi"
+    }
+  ],
+
+  "telefony-gadzhety-aksessuary": {
+    "name-categori": "Смартфоны, телефоны, гаджеты, аксессуары",
+    "data": [
+      {
+        "dataImgUrl": "https://olcha.uz/image/200x200/category/7jTR5D4A3C8N2G3WfjToAnGgmH4spQBUlGI8EBTOGgZWTLBi0SDpd4mIkhbW.png",
+        "dataName": "Смартфоны",
+        "categoriId": "telefony-gadzhety-aksessuary",
+        "id": "telefony"
+      },
+      {
+        "dataImgUrl": "https://olcha.uz/image/200x200/category/O2eFMyr4VMndpzlOulYDTRSLIXTZ8FSduuuTKEaTIutmYAwV6FFzpDplqN6A.",
+        "dataName": "Аксессуары для смартфонов и гаджетов",
+        "categoriId": "telefony-gadzhety-aksessuary",
+        "id": "aksessuary"
+      },
+      {
+        "dataImgUrl": "https://olcha.uz/image/200x200/category/iiNrpeRt58fj6X0cEiSZ65MrcF4gM5cnMZsGOQJAPiVJELWHe2zP14FWUBNz.png",
+        "dataName": "Планшеты",
+        "categoriId": "telefony-gadzhety-aksessuary",
+        "id": "planshety"
+      },
+      {
+        "dataImgUrl": "https://olcha.uz/image/200x200/category/oiPji97H90vCLySOlwDBSWRb4TroRdG4XowinuK7jfVy8p4Ek2AuOlEAQ7uc.png",
+        "dataName": "Домашние телефоны",
+        "categoriId": "telefony-gadzhety-aksessuary",
+        "id": "radiotelefony"
+      },
+      {
+        "dataImgUrl": "https://olcha.uz/image/200x200/category/YSL34Zdsm0excG9P35SX0s0LdqdPZjHbFYzCY7ruCXDLirM7kkkew8uTyK0w.png",
+        "dataName": "Кнопочные телефоны",
+        "categoriId": "telefony-gadzhety-aksessuary",
+        "id": "knopochnye-telefony"
+      },
+      {
+        "dataImgUrl": "https://olcha.uz/image/200x200/category/ZMlR5aqgwrnhZHKj4oAWXlYJRbU0Hbbt87pT8Xjvl8x0p4v8dlXIzZj2NPAX.png",
+        "dataName": "Smart Watches",
+        "categoriId": "telefony-gadzhety-aksessuary",
+        "id": "smart-watches"
+      }
+    ]
+  },
+
+  "telefony": {
+    "contentTitle": "Смартфоны",
+    "dataProducts": [
+      {
+        "dataTitleName": "BQ 6631G Surf Chameleon Blue",
+        "id": "bq6631GSurfswzxw21213swswzwq",
+        "price": 1227000,
+        "monthPrice": 159000,
+        "guaranteePeriod": {
+          "garant": false,
+          "garantTime": null
+        },
+        "brieflyProduct": "Крупнейший онлайн-магазин, где представлены тысячи модели товаров с подробными описаниями, фотографиями и характеристиками. На сайте продается огромное количество разнообразных товаров: книги, игрушки, электроника, одежда, аксессуары и многое другое, которые отличаются качеством и низкой стоимостью. С нами вы получите свою доставку намного быстрее. К тому же, мы позаботимся обо всех деталях пересылки и покупки и просто привезем вашу покупку к вам домой.",
+        "delivery": {
+          "thereIs": false,
+          "deliveryInf": "Доставка от 4х часов до 2 рабочих дней исходя от адреса доставки",
+          "deliveryIcon": "https://olcha.uz/_nuxt/img/deliveryicon.8c80bac.svg"
+        },
+        "dataModel": "https://olcha.uz/uploads/images/manufacturer/KK/KK/dx/1628579869.png",
+        "dataProductImages": [
+          {
+            "id": "das1ptK92wxpN9iiRAFOQrSX1ZEG",
+            "imgUrl": "https://olcha.uz/image/425x425/products/ptK92wxpN9iiRAFOQrSX1ZEGH9dwxP6oGAO2OsQ6tIEf3MJg7Ba2jt2w7zYR."
+          },
+          {
+            "id": "HlwlRBYsVdxyYafARjyFQiiRAFOQrSX1ZEG",
+            "imgUrl": "https://olcha.uz/image/425x425/products/RjsXUvyDCuJHlwlRBYsVdxyYafARjyFQYgrQxpUDAEk7xcaZ3Vr18r46ZaWy."
+          },
+          {
+            "id": "bnOabqudj6Ctq0sJRBU1KDJbnOabqudj6Ctq0sJAREG",
+            "imgUrl": "https://olcha.uz/image/425x425/products/woJfAVMoAVL0sB1D0l3mU1KDJbnOabqudj6Ctq0sJCOj1FtMzWTghgnZ6D5l."
+          }
+        ],
+
+        "description": [
+          {
+            "descTitle": "Откройте для себя больше возможностей",
+            "desc": "Получите всё и сразу. 6,6-дюймовый TFT-дисплей Galaxy A23 с V-образным вырезом позволяет видеть и делать больше. С технологией FHD+ и частотой обновления 90 Гц контент всегда будет оставаться четким и плавным."
+          },
+          {
+            "descTitle": "Простота и совершенство",
+            "desc": "Простые изящные изгибы Ambient Edge безупречно соединяют камеру с корпусом Galaxy A23. Тонкий и симметричный смартфон Galaxy A23 выполнен в черном, белом, голубом и персиковом цветах."
+          },
+          {
+            "descTitle": "Делайте бесподобные фото с системой из четырех камер",
+            "desc": "Запечатлейте ценные моменты во всех деталях с основной камерой 50 Мп. Расширьте угол обзора с ультраширокоугольной камерой. Камера с датчиком глубины поможет настроить фокус, а макрообъектив — снять всё до мельчайших деталей."
+          },
+          {
+            "descTitle": "Технология OIS. Наконец-то в Galaxy A23",
+            "desc": "Запечатлейте мир в движении. Снимайте невероятно плавные видео и запечатлейте мельчайшие детали даже при слабом освещении благодаря технологии OIS на Galaxy A23."
+          },
+          {
+            "descTitle": "Технология OIS. Наконец-то в Galaxy A23",
+            "desc": "Запечатлейте мир в движении. Снимайте невероятно плавные видео и запечатлейте мельчайшие детали даже при слабом освещении благодаря технологии OIS на Galaxy A23."
+          }
+        ],
+
+        "haracteristicsData": [
+          {
+            "title": "Общие характеристики смартфона",
+            "informations": [
+              {
+                "infoTitle": "Отпечаток пальца",
+                "info": "Есть"
+              },
+              {
+                "infoTitle": "Версия ОС",
+                "info": "Android 10 Go"
+              },
+              {
+                "infoTitle": "Цвет",
+                "info": "Chameleon Blue"
+              },
+              {
+                "infoTitle": "Вес",
+                "info": "208 гр"
+              },
+              {
+                "infoTitle": "Количество и тип SIM-карты",
+                "info": "2 (Nano Sim)"
+              }
+            ]
+          },
+          {
+            "title": "Связь",
+            "informations": [
+              {
+                "infoTitle": "Bluetooth",
+                "info": "4.2"
+              },
+              {
+                "infoTitle": "Wi-Fi",
+                "info": "Wi-Fi 802.11 b/g/n"
+              },
+              {
+                "infoTitle": "GPS",
+                "info": "GPS, AGPS, ГЛОНАСС"
+              }
+            ]
+          },
+          {
+            "title": "Память и процессор смартфона",
+            "informations": [
+              {
+                "infoTitle": "Объем встроенной памяти",
+                "info": "16GB"
+              },
+              {
+                "infoTitle": "Количество ядер процессора",
+                "info": "4"
+              },
+              {
+                "infoTitle": "Процессор",
+                "info": "SC7731E, 1.3 ГГц"
+              },
+              {
+                "infoTitle": "Процессор",
+                "info": "SC7731E, 1.3 ГГц"
+              },
+              {
+                "infoTitle": "Объем оперативной памяти",
+                "info": "12 GB"
+              },
+              {
+                "infoTitle": "Количество ядер процессора",
+                "info": "8"
+              }
+            ]
+          },
+          {
+            "title": "Питание",
+            "informations": [
+              {
+                "infoTitle": "Емкость аккумулятора",
+                "info": "4500 mAh"
+              },
+              {
+                "infoTitle": "Функция быстрой зарядки",
+                "info": "Fast charging 25W"
+              },
+              {
+                "infoTitle": "Тип аккумулятора",
+                "info": "Li-Ion"
+              }
+            ]
+          },
+          {
+            "title": "Камера смартфона",
+            "informations": [
+              {
+                "infoTitle": "Фронтальная камера",
+                "info": "10MP"
+              },
+              {
+                "infoTitle": "Основная камера",
+                "info": "108MP + 12MP + 12MP"
+              }
+            ]
+          },
+          {
+            "title": "Дисплей смартфона",
+            "informations": [
+              {
+                "infoTitle": "Разрешениe экрана",
+                "info": "3088x1440"
+              },
+              {
+                "infoTitle": "Тип дисплея",
+                "info": "Dynamic AMOLED 2X"
+              },
+              {
+                "infoTitle": "Частота обновления экрана",
+                "info": "120 Гц"
+              },
+              {
+                "infoTitle": "Диагональ",
+                "info": "6.9"
+              },
+              {
+                "infoTitle": "PPI",
+                "info": "496"
+              }
+            ]
+          }
+        ]
+      },
+
+      {
+        "dataTitleName": "Samsung Galaxy Note 20 Ultra 5G 12/256GB Bronze",
+        "id": "qB66samsungIgalaxyq2sz1",
+        "price": 10147000,
+        "monthPrice": 919000,
+        "guaranteePeriod": {
+          "garant": true,
+          "garantTime": 12
+        },
+        "brieflyProduct": "Первым соединив электронное перо и смартфон, Galaxy Note открывает для вас абсолютно новый мир. Мы сталкиваемся с новой реальностью, в которой нужны устройства нового типа. Это не смартфон в привычном представлении. Это мощный компьютер в вашем кармане. Это новый уровень развлечений и гейминга. Это киностудия с камерой 8K в ваших руках.",
+        "delivery": {
+          "thereIs": false,
+          "deliveryInf": "Доставка от 4х часов до 2 рабочих дней исходя от адреса доставки",
+          "deliveryIcon": "https://olcha.uz/_nuxt/img/deliveryicon.8c80bac.svg"
+        },
+        "dataModel": "https://olcha.uz/uploads/images/manufacturer/KK/KK/Ko/1646038649.jpg",
+        "dataProductImages": [
+          {
+            "id": "lJ9zoah5MQC4HRlAj1HsFr8dwT",
+            "imgUrl": "https://olcha.uz/image/425x425/products/a5xgKIivXELJ9zoah5MQC4HRlAj1HsFr8dwTRav9Ez1VWy6xY86boF6K3Gd2."
+          },
+          {
+            "id": "kkp5iGBX5LcB0nFR987AmfcyknQbS",
+            "imgUrl": "https://olcha.uz/image/425x425/products/oAWbG0wiQqH0mXT10kkp5iGBX5LcB0nFR987AmfcyknQbSLyKxwBdf0alWkP."
+          },
+          {
+            "id": "7ZeCkxj827ZeCkxFNDeJhtNNb2lDdea9",
+            "imgUrl": "https://olcha.uz/image/425x425/products/j827ZeCkxFNDeJhtNNb2lDdea9ay94ipQrWWBRy7lk74bhaZziPxxNjHIHW7."
+          }
+        ],
+
+        "description": [
+          {
+            "descTitle": "Откройте для себя больше возможностей",
+            "desc": "Играйте в 100+ игр для Xbox на смартфоне или планшете из облака с помощью Xbox Game Pass Ultimate."
+          },
+          {
+            "descTitle": "Простота и совершенство",
+            "desc": "Войдите в свою учетную запись Microsoft через приложение Xbox Game Pass и наслаждайтесь новыми играми Xbox Game Studios. "
+          },
+          {
+            "descTitle": "Делайте бесподобные фото с системой из четырех камер",
+            "desc": "Играйте в любое время и в любом месте. Супермощный интеллектуальный процессор Galaxy Note 20 Ultra обеспечивает высокую скорость загрузки и стриминга. Когда вы рядом с точкой доступа, Wi-Fi 6 устанавливает быстрое и безопасное соединение, в то время как Wi-Fi оптимизатор поддерживает низкую задержку для стабильного гейминга и видеозвонков. "
+          },
+          {
+            "descTitle": "Технология OIS. Наконец-то в Galaxy A23",
+            "desc": "Снимайте видео в 8K с максимальной четкостью и невероятной детализацией. Раскройте свой творческий потенциал полностью благодаря профессиональным настройкам обработки и монтажа."
+          }
+        ],
+
+        "haracteristicsData": [
+          {
+            "title": "Общие характеристики смартфона",
+            "informations": [
+              {
+                "infoTitle": "Отпечаток пальца",
+                "info": "Есть"
+              },
+              {
+                "infoTitle": "Влагозащита",
+                "info": "Есть, IP68"
+              },
+              {
+                "infoTitle": "Цвет",
+                "info": "Bronze"
+              },
+              {
+                "infoTitle": "Вес",
+                "info": "208 гр"
+              },
+              {
+                "infoTitle": "Количество и тип SIM-карты",
+                "info": "SIM 1 + Гибридная (SIM 2 или MicroSD)"
+              },
+              {
+                "infoTitle": "Размеры (ШxВxТ)",
+                "info": "164.8x77.2x8.1 мм"
+              }
+            ]
+          },
+          {
+            "title": "Связь",
+            "informations": [
+              {
+                "infoTitle": "Bluetooth",
+                "info": "5.0, A2DP, LE, aptX"
+              },
+              {
+                "infoTitle": "Wi-Fi",
+                "info": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct, hotspot"
+              },
+              {
+                "infoTitle": "GPS",
+                "info": "A-GPS, GLONASS, BDS, GALILEO"
+              },
+              {
+                "infoTitle": "USB",
+                "info": "USB Type-C 3.2, USB On-The-Go"
+              },
+              {
+                "infoTitle": "Стандарт",
+                "info": "GSM / CDMA / HSPA / EVDO / LTE / 5G"
+              }
+            ]
+          },
+          {
+            "title": "Память и процессор смартфона",
+            "informations": [
+              {
+                "infoTitle": "Объем встроенной памяти",
+                "info": "256GB"
+              },
+              {
+                "infoTitle": "Количество ядер процессора",
+                "info": "4"
+              },
+              {
+                "infoTitle": "Процессор",
+                "info": "Exynos 990 (7 nm+)"
+              },
+              {
+                "infoTitle": "Процессор",
+                "info": "SC7731E, 1.3 ГГц"
+              },
+              {
+                "infoTitle": "Объем оперативной памяти",
+                "info": "12 GB"
+              },
+              {
+                "infoTitle": "Количество ядер процессора",
+                "info": "8"
+              },
+              {
+                "infoTitle": "Видеопроцессор",
+                "info": "Mali-G77 MP11"
+              },
+              {
+                "infoTitle": "Частота процессора",
+                "info": "2x2.73 GHz Mongoose M5 & 2x2.50 GHz Cortex-A76 & 4x2.0 GHz Cortex-A55"
+              }
+            ]
+          },
+          {
+            "title": "Питание",
+            "informations": [
+              {
+                "infoTitle": "Емкость аккумулятора",
+                "info": "4500 mAh"
+              },
+              {
+                "infoTitle": "Функция быстрой зарядки",
+                "info": "Fast charging 25W"
+              },
+              {
+                "infoTitle": "Тип аккумулятора",
+                "info": "Li-Ion"
+              }
+            ]
+          },
+          {
+            "title": "Камера смартфона",
+            "informations": [
+              {
+                "infoTitle": "Фронтальная камера",
+                "info": "10MP"
+              },
+              {
+                "infoTitle": "Основная камера",
+                "info": "108MP + 12MP + 12MP"
+              }
+            ]
+          },
+          {
+            "title": "Дисплей смартфона",
+            "informations": [
+              {
+                "infoTitle": "Разрешениe экрана",
+                "info": "3088x1440"
+              },
+              {
+                "infoTitle": "Тип дисплея",
+                "info": "Dynamic AMOLED 2X"
+              },
+              {
+                "infoTitle": "Частота обновления экрана",
+                "info": "120 Гц"
+              },
+              {
+                "infoTitle": "Диагональ",
+                "info": "6.9"
+              },
+              {
+                "infoTitle": "PPI",
+                "info": "496"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
