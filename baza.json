@@ -164,6 +164,7 @@
           "garantTime": null
         },
         "brieflyProduct": "Крупнейший онлайн-магазин, где представлены тысячи модели товаров с подробными описаниями, фотографиями и характеристиками. На сайте продается огромное количество разнообразных товаров: книги, игрушки, электроника, одежда, аксессуары и многое другое, которые отличаются качеством и низкой стоимостью. С нами вы получите свою доставку намного быстрее. К тому же, мы позаботимся обо всех деталях пересылки и покупки и просто привезем вашу покупку к вам домой.",
+        "memorySize": "4 GB",
         "delivery": {
           "thereIs": false,
           "deliveryInf": "Доставка от 4х часов до 2 рабочих дней исходя от адреса доставки",
@@ -335,7 +336,8 @@
               }
             ]
           }
-        ]
+        ],
+        "filterType": "junior-smart-tel"
       },
 
       {
@@ -348,6 +350,7 @@
           "garantTime": 12
         },
         "brieflyProduct": "Первым соединив электронное перо и смартфон, Galaxy Note открывает для вас абсолютно новый мир. Мы сталкиваемся с новой реальностью, в которой нужны устройства нового типа. Это не смартфон в привычном представлении. Это мощный компьютер в вашем кармане. Это новый уровень развлечений и гейминга. Это киностудия с камерой 8K в ваших руках.",
+        "memorySize": "16 GB",
         "delivery": {
           "thereIs": false,
           "deliveryInf": "Доставка от 4х часов до 2 рабочих дней исходя от адреса доставки",
@@ -535,7 +538,896 @@
               }
             ]
           }
-        ]
+        ],
+        "filterType": "senior-smart-tel"
+      },
+
+      {
+        "dataTitleName": "Samsung Galaxy M52 5G 6/128 GB",
+        "id": "21wungIdsa12xqB66q2sz1gala",
+        "price": 3624000,
+        "monthPrice": 375000,
+        "guaranteePeriod": {
+          "garant": true,
+          "garantTime": 12
+        },
+        "brieflyProduct": "Расширь границы доступного с 6,7-дюймовым экраном с O-образным вырезом. Благодаря технологии Full HD+, Super AMOLED+ дисплей демонстрирует яркую, четкую и чистую картинку. Играй или листай, технология обновления экрана с частотой 120 Гц обеспечит сверхплавный просмотр любого контента. Делай ультрачёткие и чистые снимки на основную камеру 64 МП утром и вечером. Расширь угол обзора с сверхширокоугольной камерой, или зафиксируй мельчайшие детали на камеру для макросъёмки.",
+        "memorySize": "6/128 GB",
+        "delivery": {
+          "thereIs": false,
+          "deliveryInf": "Доставка от 4х часов до 2 рабочих дней исходя от адреса доставки",
+          "deliveryIcon": "https://olcha.uz/_nuxt/img/deliveryicon.8c80bac.svg"
+        },
+        "dataModel": "https://olcha.uz/uploads/images/manufacturer/KK/KK/Ko/1646038649.jpg",
+        "dataProductImages": [
+          {
+            "id": "dsaNJZIHRInkJhT8AWcARnsvNJZI8dwT",
+            "imgUrl": "https://olcha.uz/image/425x425/products/c5wCjwIvopjghCInkJhT8AWcARnsvNJZIUI6fyAhpSO0FO66OdjqmCJgs4rc."
+          },
+          {
+            "id": "Z3Km7lkp5if3qFTnpQRmrwMAfNS",
+            "imgUrl": "https://olcha.uz/image/425x425/products/fHsLJCMewKhZ3Km7lvbrIZ3IrQtf3qFTnpQRmrwMAfNvqKCf7fKJqwf48LuN."
+          },
+          {
+            "id": "8jSZQqJDOEE2aKxFNDeJhtN8jSZQqJDOEE2aK9",
+            "imgUrl": "https://olcha.uz/image/425x425/products/9dQOp4J8jSZQqJDOEE2aKOpBJpFTnSk4W5f7dqe6rCJkWQIE7lbSPFHh7vOB."
+          }
+        ],
+
+        "description": [
+          {
+            "descTitle": "Откройте для себя больше возможностей",
+            "desc": "Аналогично человеческому глазу объектив сверхширокоугольной камеры 12 МП обеспечивает угол обзора 123°, благодаря чему у вас легко получится передать всю красоту панорамных снимков."
+          }
+        ],
+
+        "haracteristicsData": [
+          {
+            "title": "Общие характеристики смартфона",
+            "informations": [
+              {
+                "infoTitle": "Отпечаток пальца",
+                "info": "Есть"
+              },
+              {
+                "infoTitle": "Вес",
+                "info": "173 g"
+              },
+              {
+                "infoTitle": "Количество и тип SIM-карты",
+                "info": "SIM 1 + Гибридная (SIM 2 или MicroSD)"
+              },
+              {
+                "infoTitle": "Размеры (ШxВxТ)",
+                "info": "164.2x76.4x7.4 мм"
+              }
+            ]
+          },
+          {
+            "title": "Связь",
+            "informations": [
+              {
+                "infoTitle": "Bluetooth",
+                "info": "5.0, A2DP, LE"
+              },
+              {
+                "infoTitle": "Wi-Fi",
+                "info": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct, hotspot"
+              },
+              {
+                "infoTitle": "GPS",
+                "info": "A-GPS, GLONASS, GALILEO, BDS, QZSS"
+              },
+              {
+                "infoTitle": "USB",
+                "info": "USB Type-C 2.0, USB On-The-Go"
+              },
+              {
+                "infoTitle": "Стандарт",
+                "info": "GSM / HSPA / LTE / 5G"
+              }
+            ]
+          },
+          {
+            "title": "Память и процессор смартфона",
+            "informations": [
+              {
+                "infoTitle": "Объем памяти",
+                "info": "6/128 GB"
+              },
+              {
+                "infoTitle": "Частота процессора",
+                "info": "4x2.4 GHz Kryo 670 & 4x1.8 GHz Kryo 670"
+              },
+              {
+                "infoTitle": "Видеопроцессор",
+                "info": "Adreno 642L"
+              },
+              {
+                "infoTitle": "Количество ядер процессора",
+                "info": "8"
+              },
+              {
+                "infoTitle": "Процессор",
+                "info": "Qualcomm SM7325 Snapdragon 778G 5G (6 nm)"
+              }
+            ]
+          },
+          {
+            "title": "Питание",
+            "informations": [
+              {
+                "infoTitle": "Емкость аккумулятора",
+                "info": "5000 мАч"
+              },
+              {
+                "infoTitle": "Функция быстрой зарядки",
+                "info": "Fast charging 25W"
+              },
+              {
+                "infoTitle": "Тип аккумулятора",
+                "info": "Li-Ion"
+              }
+            ]
+          },
+          {
+            "title": "Камера смартфона",
+            "informations": [
+              {
+                "infoTitle": "Фронтальная камера",
+                "info": "32 MP"
+              },
+              {
+                "infoTitle": "Основная камера",
+                "info": "64MP + 12MP + 5MP"
+              },
+              {
+                "infoTitle": "Видео",
+                "info": "4K@30fps, 1080p@30/60fps"
+              }
+            ]
+          },
+          {
+            "title": "Дисплей смартфона",
+            "informations": [
+              {
+                "infoTitle": "Разрешениe экрана",
+                "info": "1080 x 2400"
+              },
+              {
+                "infoTitle": "Тип дисплея",
+                "info": "Super AMOLED Plus"
+              },
+              {
+                "infoTitle": "Частота обновления экрана",
+                "info": "120 Гц"
+              },
+              {
+                "infoTitle": "Диагональ",
+                "info": "6.9"
+              },
+              {
+                "infoTitle": "PPI",
+                "info": "393"
+              },
+              {
+                "infoTitle": "Особенности дисплея",
+                "info": "Corning Gorilla Glass 5"
+              },
+              {
+                "infoTitle": "Соотношение сторон",
+                "info": "20:9"
+              }
+            ]
+          }
+        ],
+        "filterType": "middle-smart-tel"
+      },
+
+      {
+        "dataTitleName": "Honor X9 6/128GB Ocean Blue",
+        "id": "adsa121GBOcs1ea12xqBungIds",
+        "price": 3412000,
+        "monthPrice": 353000,
+        "guaranteePeriod": {
+          "garant": true,
+          "garantTime": 12
+        },
+        "brieflyProduct": "Смартфоны Redmi Note от Xiaomi в особой презентации не нуждаются. Аппараты линейки не раз становились бестселлерами за счет хорошего соотношения цены и качества. Сегодня смотрим на Redmi Note 11.Совершенно новый дизайн гаджета отличается плоской рамкой и минималистичным стилем. Смартфон Редми Ноут 11 оснащен AMOLED-дисплеем с разрешением FullHD+ и частотой обновления экрана 90 Гц. Пиковая яркость достигает 1000 нит.",
+        "memorySize": "4 GB",
+        "delivery": {
+          "thereIs": false,
+          "deliveryInf": "Доставка от 4х часов до 2 рабочих дней исходя от адреса доставки",
+          "deliveryIcon": "https://olcha.uz/_nuxt/img/deliveryicon.8c80bac.svg"
+        },
+        "dataModel": "https://olcha.uz/uploads/images/manufacturer/KK/KK/Kp/1646038892.jpg",
+        "dataProductImages": [
+          {
+            "id": "xwR9W7nPpnHwKTdWvNJZI8dwT",
+            "imgUrl": "https://olcha.uz/image/425x425/products/Q25xwR9W7nPpnHwKTdWcPs0yHQPLLG9u1z6P5Z88f8RePUN8hUCJbkQo7ipz.jpeg"
+          },
+          {
+            "id": "8ccPeNeBvIEHQNvfNS",
+            "imgUrl": "https://olcha.uz/image/425x425/products/aVa70CMtjbefJ6u8HfJ8ccPeNeBvIEHQNvlPFC1VrIiCeh0cHtZekXyV5J89.png"
+          },
+          {
+            "id": "8jSZQqJDOEE2aKxFNDeJhtN8jSZQqJDOEE2aK9",
+            "imgUrl": "https://olcha.uz/image/425x425/products/9dQOp4J8jSZQqJDOEE2aKOpBJpFTnSk4W5f7dqe6rCJkWQIE7lbSPFHh7vOB."
+          }
+        ],
+
+        "description": [],
+
+        "haracteristicsData": [
+          {
+            "title": "Общие характеристики смартфона",
+            "informations": [
+              {
+                "infoTitle": "Отпечаток пальца",
+                "info": "Есть (сбоку)"
+              },
+              {
+                "infoTitle": "Вес",
+                "info": "179 g"
+              },
+              {
+                "infoTitle": "Версия ОС",
+                "info": "Android 11, MIUI 13"
+              },
+              {
+                "infoTitle": "Цвет",
+                "info": "Графитово-серый"
+              },
+              {
+                "infoTitle": "Размеры (ШxВxТ)",
+                "info": "159.9x73.9x8.1 мм"
+              },
+              {
+                "infoTitle": "Количество и тип SIM-карты",
+                "info": "Dual SIM (Nano-SIM, dual stand-by)"
+              }
+            ]
+          },
+          {
+            "title": "Связь",
+            "informations": [
+              {
+                "infoTitle": "Инфракрасный порт",
+                "info": "Есть"
+              },
+              {
+                "infoTitle": "Bluetooth",
+                "info": "5.0, A2DP, LE"
+              },
+              {
+                "infoTitle": "Wi-Fi",
+                "info": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot"
+              },
+              {
+                "infoTitle": "GPS",
+                "info": "A-GPS, GLONASS, BDS, GALILEO"
+              },
+              {
+                "infoTitle": "USB",
+                "info": "USB Type-C 2.0, USB On-The-Go"
+              },
+              {
+                "infoTitle": "Стандарт",
+                "info": "GSM / HSPA / LTE"
+              },
+              {
+                "infoTitle": "NFC",
+                "info": "Есть (зависит от рынка/региона)"
+              }
+            ]
+          },
+          {
+            "title": "Память и процессор смартфона",
+            "informations": [
+              {
+                "infoTitle": "Видеопроцессор",
+                "info": "Adreno 610"
+              },
+              {
+                "infoTitle": "Процессор",
+                "info": "Qualcomm SM6225 Snapdragon 680 4G (6 nm)"
+              },
+              {
+                "infoTitle": "Частота процессора",
+                "info": "4x2.4 GHz Kryo 265 Gold & 4x1.9 GHz Kryo 265 Silver"
+              },
+              {
+                "infoTitle": "Слот для карт памяти",
+                "info": "microSDXC"
+              },
+              {
+                "infoTitle": "Объем встроенной памяти",
+                "info": "128 GB"
+              },
+              {
+                "infoTitle": "Объем оперативной памяти",
+                "info": "6 GB"
+              }
+            ]
+          },
+          {
+            "title": "Питание",
+            "informations": [
+              {
+                "infoTitle": "Емкость аккумулятора",
+                "info": "5000 мАч"
+              },
+              {
+                "infoTitle": "Функция быстрой зарядки",
+                "info": "33W, 100% 60 мин (рекламируется)"
+              },
+              {
+                "infoTitle": "Тип аккумулятора",
+                "info": "Li-Po"
+              }
+            ]
+          },
+          {
+            "title": "Камера смартфона",
+            "informations": [
+              {
+                "infoTitle": "Фронтальная камера",
+                "info": "13 MP"
+              },
+              {
+                "infoTitle": "Основная камера",
+                "info": "50MP + 8 MP + 2 MP + 2 MP"
+              },
+              {
+                "infoTitle": "Видео",
+                "info": "1080p@30fps"
+              }
+            ]
+          },
+          {
+            "title": "Дисплей смартфона",
+            "informations": [
+              {
+                "infoTitle": "Разрешениe экрана",
+                "info": "1080 x 2400"
+              },
+              {
+                "infoTitle": "Тип дисплея",
+                "info": "AMOLED"
+              },
+              {
+                "infoTitle": "Частота обновления экрана",
+                "info": "120 Гц"
+              },
+              {
+                "infoTitle": "Диагональ",
+                "info": "6.43"
+              },
+              {
+                "infoTitle": "PPI",
+                "info": "409"
+              },
+              {
+                "infoTitle": "Соотношение сторон",
+                "info": "20:9"
+              }
+            ]
+          }
+        ],
+        "filterType": "junior-smart-tel"
+      },
+
+      {
+        "dataTitleName": "Xiaomi Redmi K50 Gaming 12/256GB Silver",
+        "id": "x1q21BunadGams21ingBOcs",
+        "price": 6322000,
+        "monthPrice": 654000,
+        "guaranteePeriod": {
+          "garant": true,
+          "garantTime": 12
+        },
+        "brieflyProduct": "Гаджет, ориентированный на геймерскую аудиторию, примечателен мощным процессором, дополненным продвинутой системой охлаждения, а также экраном с высокой частотой обновления и функцией быстрой зарядки, способной «раскачать» ёмкую АКБ за считаные минуты. Лицом Redmi K50 Gaming Edition стал 6,67-дюймовый OLED-дисплей с разрешением Full HD+ и отверстием вверху по центру для 20-мегапиксельной фронталки Sony IMX596. Частота обновления экрана новинки составляет 120 Гц, а частота опроса сенсора — 480 Гц.",
+        "memorySize": "8 GB",
+        "delivery": {
+          "thereIs": false,
+          "deliveryInf": "Доставка от 4х часов до 2 рабочих дней исходя от адреса доставки",
+          "deliveryIcon": "https://olcha.uz/_nuxt/img/deliveryicon.8c80bac.svg"
+        },
+        "dataModel": "https://olcha.uz/uploads/images/manufacturer/KK/KK/Kp/1646038892.jpg",
+        "dataProductImages": [
+          {
+            "id": "WRoaeced1BhnNxm4oMxq8dwT",
+            "imgUrl": "https://olcha.uz/image/425x425/products/K5J41nASZCtzzNc1UwdLWRoaeced1BhnNxm4oMxqQKwqLM0JSpGUAYnvTuuo."
+          }
+        ],
+
+        "description": [
+          {
+            "descTitle": "Snapdargon 8 Gen 1",
+            "desc": "Встречайте мощный производительный флагманский процессор Qualcomm с новой архитектурой ядер и графической системой. Будь то ежедневная работа или ожесточенные игровые баталии, ощущение плавности необыкновенное! Улучшенная система охлаждения с применением самых инновационных материалов помогает обуздать всю мощь Snapdragon 8 Gen 1, чтобы вы получали максимальную производительность без перегрева. Разделение главных источников тепла - процессор и контроллер питания позволило облегчить отвод тепла избегая эффекта наложения нескольких источников друг на друга. Увеличивая площадь рассеивания снижается средняя температура и тепло быстрее отводится. Аккумулятор большой емкости 4700 мАч с гиперзарядкой 120 Вт. Двухэлементная батарея имеет больший ресурс циклов разрядки, а сам телефон может работать напрямую от сети, не восполняя и не расходуя ресурс аккумулятора. Улучшенный экран, созданный специально для тех, кто любит играть в игры. Использование гибких материалов OLED обеспечивает точность цветопередачи, яркость и контраст, оптимизированные для игр. Он получил рейтинг A+ DisplayMate, международного авторитетного агентства по оценке экранов, и установил 15 новых рекордов! Дисплей защищен прочным стеклом Gorilla Glass Victus. Профессиональный основной цветной экран. Высокоточная цветопередача дизайнерского уровня. Игровое видение, чрезвычайно захватывающее. Новые магнитные триггеры с выдвижным механизмом теперь имеют более точный ход и быстрее срабатывают."
+          }
+        ],
+
+        "haracteristicsData": [
+          {
+            "title": "Общие характеристики смартфона",
+            "informations": [
+              {
+                "infoTitle": "Отпечаток пальца",
+                "info": "Есть (сбоку)"
+              },
+              {
+                "infoTitle": "Версия ОС",
+                "info": "Android 12, MIUI 13"
+              },
+              {
+                "infoTitle": "Цвет",
+                "info": "Silver"
+              },
+              {
+                "infoTitle": "Размеры (ШxВxТ)",
+                "info": "76.7x162.5x8.5 мм"
+              },
+              {
+                "infoTitle": "Количество и тип SIM-карты",
+                "info": "Dual SIM (Nano-SIM, dual stand-by)"
+              },
+              {
+                "infoTitle": "Особенности",
+                "info": "акселерометр, гироскоп, компас, цветовой спектр"
+              }
+            ]
+          },
+          {
+            "title": "Связь",
+            "informations": [
+              {
+                "infoTitle": "Инфракрасный порт",
+                "info": "Есть"
+              },
+              {
+                "infoTitle": "Bluetooth",
+                "info": "5.2, A2DP, LE"
+              },
+              {
+                "infoTitle": "Wi-Fi",
+                "info": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct, hotspot"
+              },
+              {
+                "infoTitle": "GPS",
+                "info": "A-GPS. Up to tri-band: GLONASS (1), BDS (3), GALILEO (2), QZSS (2), NavIC"
+              },
+              {
+                "infoTitle": "USB",
+                "info": "USB Type-C 2.0, USB On-The-Go"
+              },
+              {
+                "infoTitle": "NFC",
+                "info": "Есть"
+              }
+            ]
+          },
+          {
+            "title": "Память и процессор смартфона",
+            "informations": [
+              {
+                "infoTitle": "Процессор",
+                "info": "Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm)"
+              },
+              {
+                "infoTitle": "Объем памяти",
+                "info": "12/256 GB"
+              },
+              {
+                "infoTitle": "Количество ядер процессора",
+                "info": "8"
+              }
+            ]
+          },
+          {
+            "title": "Питание",
+            "informations": [
+              {
+                "infoTitle": "Емкость аккумулятора",
+                "info": "4700 мАч"
+              },
+              {
+                "infoTitle": "Функция быстрой зарядки",
+                "info": "Быстрая зарядка 120 Вт, 100% за 17 минут"
+              },
+              {
+                "infoTitle": "Тип аккумулятора",
+                "info": "Li-Po"
+              }
+            ]
+          },
+          {
+            "title": "Камера смартфона",
+            "informations": [
+              {
+                "infoTitle": "Фронтальная камера",
+                "info": "20 MP"
+              },
+              {
+                "infoTitle": "Основная камера",
+                "info": "64 MP + 8 MP + 2 MP"
+              }
+            ]
+          },
+          {
+            "title": "Дисплей смартфона",
+            "informations": [
+              {
+                "infoTitle": "Разрешениe экрана",
+                "info": "2400x1080"
+              },
+              {
+                "infoTitle": "Тип дисплея",
+                "info": "OLED"
+              },
+              {
+                "infoTitle": "Частота обновления экрана",
+                "info": "120 Гц"
+              },
+              {
+                "infoTitle": "Диагональ",
+                "info": "6.67"
+              },
+              {
+                "infoTitle": "PPI",
+                "info": "395"
+              },
+              {
+                "infoTitle": "Соотношение сторон",
+                "info": "20:9"
+              },
+              {
+                "infoTitle": "Особенности экрана",
+                "info": "сенсорный экран, цветной экран"
+              }
+            ]
+          }
+        ],
+        "filterType": "senior-smart-tel"
+      },
+
+      {
+        "dataTitleName": "BQ 6061L Slim Red",
+        "id": "wqhnN1212wsxm4oMxOcs",
+        "price": 1148000,
+        "monthPrice": 149000,
+        "guaranteePeriod": {
+          "garant": true,
+          "garantTime": 1
+        },
+        "brieflyProduct": "Крупнейший онлайн-магазин, где представлены тысячи модели товаров с подробными описаниями, фотографиями и характеристиками. На сайте продается огромное количество разнообразных товаров: книги, игрушки, электроника, одежда, аксессуары и многое другое, которые отличаются качеством и низкой стоимостью. С нами вы получите свою доставку намного быстрее. К тому же, мы позаботимся обо всех деталях пересылки и покупки и просто привезем вашу покупку к вам домой.",
+        "memorySize": null,
+        "delivery": {
+          "thereIs": false,
+          "deliveryInf": "Доставка от 4х часов до 2 рабочих дней исходя от адреса доставки",
+          "deliveryIcon": "https://olcha.uz/_nuxt/img/deliveryicon.8c80bac.svg"
+        },
+        "dataModel": "https://olcha.uz/uploads/images/manufacturer/KK/KK/dx/1628579869.png",
+        "dataProductImages": [
+          {
+            "id": "WRoaeced1BhnNxm4oMxq8dwT",
+            "imgUrl": "https://olcha.uz/image/425x425/products/6SJ8qwsmZZe0WRJTvOmBMjJyjW9IAxAFu0KXFMBAp7fMIOzCgDkLnpOspwlt."
+          }
+        ],
+
+        "description": [],
+
+        "haracteristicsData": [
+          {
+            "title": "Общие характеристики смартфона",
+            "informations": [
+              {
+                "infoTitle": "Количество и тип SIM-карты",
+                "info": "2"
+              },
+              {
+                "infoTitle": "Вес",
+                "info": "166 гр"
+              },
+              {
+                "infoTitle": "Материал корпуса",
+                "info": "пластик"
+              },
+              {
+                "infoTitle": "Цвет",
+                "info": "Red"
+              },
+              {
+                "infoTitle": "Версия ОС",
+                "info": "Android 11 Go"
+              }
+            ]
+          },
+          {
+            "title": "Связь",
+            "informations": [
+              {
+                "infoTitle": "Bluetooth",
+                "info": "Bluetooth 5.0"
+              },
+              {
+                "infoTitle": "Wi-Fi",
+                "info": "IEEE 802.11 a/b/g/n/ac"
+              },
+              {
+                "infoTitle": "GPS",
+                "info": "GPS, AGPS, ГЛОНАСС"
+              },
+              {
+                "infoTitle": "Стандарт",
+                "info": "GSM 850/900/1800/1900 МГц, WCDMA 900/2100 МГц, GPRS, EDGE, LTE band: FDD B1 (2100МГц), B3 (1800МГц), B7 (2600МГц ), B20 (800МГц), Wi-Fi"
+              }
+            ]
+          },
+          {
+            "title": "Память и процессор смартфона",
+            "informations": [
+              {
+                "infoTitle": "Процессор",
+                "info": "MTK6761, 2.0 ГГц"
+              },
+              {
+                "infoTitle": "Объем оперативной памяти",
+                "info": "2 GB"
+              },
+              {
+                "infoTitle": "Карта памяти",
+                "info": "MicroSD до 128 ГБ"
+              },
+              {
+                "infoTitle": "Количество ядер процессора",
+                "info": "MicroSD до 128 ГБ"
+              },
+              {
+                "infoTitle": "Объем встроенной памяти",
+                "info": "16 GB"
+              }
+            ]
+          },
+          {
+            "title": "Питание",
+            "informations": [
+              {
+                "infoTitle": "Емкость аккумулятора",
+                "info": "3500 mAh"
+              }
+            ]
+          },
+          {
+            "title": "Камера смартфона",
+            "informations": [
+              {
+                "infoTitle": "Фронтальная камера",
+                "info": "8 MP"
+              },
+              {
+                "infoTitle": "Основная камера",
+                "info": "8MP + 5MP"
+              }
+            ]
+          },
+          {
+            "title": "Дисплей смартфона",
+            "informations": [
+              {
+                "infoTitle": "Разрешениe экрана",
+                "info": "1560x720 HD+"
+              },
+              {
+                "infoTitle": "Диагональ",
+                "info": "6.088"
+              }
+            ]
+          }
+        ],
+        "filterType": "junior-smart-tel"
+      },
+
+      {
+        "dataTitleName": "Honor X7 4/128GB Черный",
+        "id": "12ssxsBdd1ala21",
+        "price": 2509000,
+        "monthPrice": 260000,
+        "guaranteePeriod": {
+          "garant": true,
+          "garantTime": 12
+        },
+        "brieflyProduct": "HONOR SuperCharge мощностью 22,5 Вт позволяет смотреть видео в течение 3 часов всего за 10 минут зарядки. Ваш HONOR X7 будет проводить больше времени у вас в руках и меньше — на полке. Дисплей HONOR FullView с диагональю 6,74 дюйма обеспечивает эффект присутствия, как в кинотеатре, на ладони. Дисплей HONOR X7 с частотой обновления до 90 Гц делает ваш контент более плавным и с меньшими задержками.",
+        "memorySize": null,
+        "delivery": {
+          "thereIs": true,
+          "deliveryInf": "Доставка от 4х часов до 2 рабочих дней исходя от адреса доставки",
+          "deliveryIcon": "https://olcha.uz/_nuxt/img/deliveryicon.8c80bac.svg"
+        },
+        "dataModel": "https://olcha.uz/uploads/images/manufacturer/KK/KK/an/1636463442.jpg",
+        "dataProductImages": [
+          {
+            "id": "mQMrIaKAX6fAZbe7RnsvNJZI8",
+            "imgUrl": "https://olcha.uz/image/425x425/products/eszEUThOTjoyBn297vHCEOBXmVm7zmQMrIaKAX6fAZbe7XrMiotmLyzUnzRx."
+          },
+          {
+            "id": "7K1C6AoT0uLnwlQL2Msa",
+            "imgUrl": "https://olcha.uz/image/425x425/products/cJBRGJuHmPHJg3MSOgXzMzX2JSJgewIpPTmgN7K1C6AoT0uLnwlQL2MDJ18H."
+          },
+          {
+            "id": "1s1Rnuia20PKGxXdCwQrRUGBEE2aK9",
+            "imgUrl": "https://olcha.uz/image/425x425/products/yap3G5HCsRFQupIsnUkGUc1Rnuia20PKGxXdCwQrRUGBaS00lNWZlfpAnshG."
+          }
+        ],
+
+        "description": [
+          {
+            "descTitle": "Профессиональная защита глаз",
+            "desc": "Телефон сертифицирован TÜV Rheinland для защиты от синего света, что помогает защитить ваши глаза."
+          },
+          {
+            "descTitle": "Сделать больше",
+            "desc": "Благодаря технологии HONOR RAM Turbo 2 ГБ ПЗУ доступны для расширения оперативной памяти, что обеспечивает более плавную работу в многозадачном режиме."
+          },
+          {
+            "descTitle": "Больше мощности в ваших руках",
+            "desc": "Благодаря энергоэффективному 6-нанометровому процессору Snapdragon® 680 HONOR X7 обеспечивает длительное и плавное взаимодействие, независимо от того, смотрите ли вы видео или играете в игры."
+          },
+          {
+            "descTitle": "Больше прекрасных моментов",
+            "desc": "Основная камера высокого разрешения и оптимизированный алгоритм обработки изображений позволяют легко сохранять замечательные сцены из вашей жизни."
+          }
+        ],
+
+        "haracteristicsData": [
+          {
+            "title": "Общие характеристики смартфона",
+            "informations": [
+              {
+                "infoTitle": "Отпечаток пальца",
+                "info": "Есть"
+              },
+              {
+                "infoTitle": "Вес",
+                "info": "198 гр"
+              },
+              {
+                "infoTitle": "Количество и тип SIM-карты",
+                "info": "2 (Nano Sim)"
+              },
+              {
+                "infoTitle": "Размеры (ШxВxТ)",
+                "info": "167.6x77.2x8.6 мм"
+              },
+              {
+                "infoTitle": "Цвет",
+                "info": "Черный"
+              },
+              {
+                "infoTitle": "Версия ОС",
+                "info": "Android 11, Magic UI 4.2"
+              }
+            ]
+          },
+          {
+            "title": "Связь",
+            "informations": [
+              {
+                "infoTitle": "Bluetooth",
+                "info": "5.0, A2DP, LE"
+              },
+              {
+                "infoTitle": "Wi-Fi",
+                "info": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot"
+              },
+              {
+                "infoTitle": "GPS",
+                "info": "Есть"
+              },
+              {
+                "infoTitle": "USB",
+                "info": "USB Type-C 2.0, USB On-The-Go"
+              },
+              {
+                "infoTitle": "Стандарт",
+                "info": "GSM, 3G, 4G LTE"
+              }
+            ]
+          },
+          {
+            "title": "Память и процессор смартфона",
+            "informations": [
+              {
+                "infoTitle": "Объем оперативной памяти",
+                "info": "4 GB"
+              },
+              {
+                "infoTitle": "Слот для карт памяти",
+                "info": "microSDXC"
+              },
+              {
+                "infoTitle": "Частота процессора",
+                "info": "4x2.4 GHz Kryo 265 Gold & 4x1.9 GHz Kryo 265 Silver"
+              },
+              {
+                "infoTitle": "Видеопроцессор",
+                "info": "Adreno 610"
+              },
+              {
+                "infoTitle": "Количество ядер процессора",
+                "info": "8"
+              },
+              {
+                "infoTitle": "Процессор",
+                "info": "Qualcomm SM6225 Snapdragon 680 4G (6 nm)"
+              },
+              {
+                "infoTitle": "Объем встроенной памяти",
+                "info": "128GB"
+              }
+            ]
+          },
+          {
+            "title": "Питание",
+            "informations": [
+              {
+                "infoTitle": "Емкость аккумулятора",
+                "info": "5000 мАч"
+              },
+              {
+                "infoTitle": "Функция быстрой зарядки",
+                "info": "Fast charging 22.5W"
+              },
+              {
+                "infoTitle": "Тип аккумулятора",
+                "info": "Li-Po"
+              }
+            ]
+          },
+          {
+            "title": "Камера смартфона",
+            "informations": [
+              {
+                "infoTitle": "Фронтальная камера",
+                "info": "8 MP"
+              },
+              {
+                "infoTitle": "Основная камера",
+                "info": "48MP + 5MP + 2MP + 2MP"
+              },
+              {
+                "infoTitle": "Видео",
+                "info": "1080p@30fps"
+              }
+            ]
+          },
+          {
+            "title": "Дисплей смартфона",
+            "informations": [
+              {
+                "infoTitle": "Разрешениe экрана",
+                "info": "720 x 1600 pix"
+              },
+              {
+                "infoTitle": "Тип дисплея",
+                "info": "IPS LCD"
+              },
+              {
+                "infoTitle": "Частота обновления экрана",
+                "info": "90 Гц"
+              },
+              {
+                "infoTitle": "Диагональ",
+                "info": "6.74"
+              },
+              {
+                "infoTitle": "Соотношение сторон",
+                "info": "20:9"
+              }
+            ]
+          }
+        ],
+        "filterType": "middle-smart-tel"
       }
     ]
   }
