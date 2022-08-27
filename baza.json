@@ -1618,6 +1618,1060 @@
           }
         ],
         "filterType": "senior-smart-tel"
+      },
+
+      {
+        "dataTitleName": "Xiaomi Poco M4 Pro",
+        "id": "21s21sI5Xilaxyq2sz1",
+        "price": 2531000,
+        "monthPrice": 262000,
+        "guaranteePeriod": {
+          "garant": true,
+          "garantTime": 12
+        },
+        "brieflyProduct": "Вы можете купить этот товар только у нас с официальной гарантией по самой низкой цене. У вас есть возможность купить товар в рассрочку и без кредита. Есть услуга доставки. Быстрая доставка по всему Узбекистану. Делайте покупки у нас легко и быстро. Мы отобрали для Вас только лучшее, поэтому больше Вам не придется бегать по магазинам и тратить кучу времени на поиски. Все что Вам нужно, есть у нас!",
+        "memorySize": null,
+        "delivery": {
+          "thereIs": false,
+          "deliveryInf": "Доставка от 4х часов до 2 рабочих дней исходя от адреса доставки",
+          "deliveryIcon": "https://olcha.uz/_nuxt/img/deliveryicon.8c80bac.svg"
+        },
+        "dataModel": "https://olcha.uz/uploads/images/manufacturer/KK/KK/Kp/1646038892.jpg",
+        "dataProductImages": [
+          {
+            "id": "vWqBvInErw7JWOeMaPBIw2",
+            "imgUrl": "https://olcha.uz/image/425x425/products/rKsExzalLPrJiORuPyUsbnwvWqBvInErwE2pfUm45qCX6zgwha2Y5TfC8hxg."
+          },
+          {
+            "id": "WzFtxpN8EUydC6vg2I",
+            "imgUrl": "https://olcha.uz/image/425x425/products/XvT3woR6BklwDH7BueDCWzFtxpN8EUydC6vg2I4JskOv4hiNVhBeyFzPi6P3."
+          },
+          {
+            "id": "cGck6xKpA8NK",
+            "imgUrl": "https://olcha.uz/image/425x425/products/guMa8urdisOIfpJqU12eSjYVDV28cGck6xKpA8NKWjtNjFzHlLVarQYxS7kV."
+          }
+        ],
+
+        "description": [
+          {
+            "descTitle": "Выдающийся и лучший",
+            "desc": "Да, вы правильно прочитали! Серия POCO M теперь использует дисплей AMOLED и поддерживает DCI-P3. Кинематографическая широкая цветовая гамма в сочетании со сверхвысокой контрастностью позволит вам погрузиться в каждый кадр."
+          },
+          {
+            "descTitle": "Флагманская производительность",
+            "desc": "Мягкая подсветка дисплея для защиты ваших глазPOCO M4 Pro оснащен отличным датчиком освещенности, который может обнаруживать чувствительные изменения в освещении и непрерывно регулировать яркость дисплея до комфортной. С легкостью читайте по вечерам и четко видите даже при ярком солнечном свете. Сертифицированный дисплей для ухода за глазами уменьшает повреждение глаз, вызванное синим светом."
+          },
+          {
+            "descTitle": "Максимальная мощность",
+            "desc": "В сравнении со стандартным Dimensity 8100, потенциал возможностей разблокирован за счёт улучшенного контроля температур и сниженного энергопотребления. Игры стали еще стабильней, Nightscape видео стали еще лучше. Он позволяет решать любые повседневные задачи, обработку видео, заниматься киберспортом."
+          },
+          {
+            "descTitle": "Улучшенное охлаждение",
+            "desc": "OnePlus разработали высокопроизводительную графитовую систему охлаждения, которая обеспечивает исключительный контроль температуры. Увеличенная площадь системы жидкостного охлаждения обеспечивает стабильную частоту кадров во время нагруженных сетевых баталий. Монтаж видео, запись 4К-видео теперь не ограничены уровнем нагрева устройства."
+          },
+          {
+            "descTitle": "50Мп тройная камера",
+            "desc": "Система из трёх камер позволяет запечатлеть всю глубину момента в точности, во всех деталях. Флагманская камера IMX766 с оптической стабилизацией обеспечивает отсутствие шума в кадре. Широкоугольная камера с углом обзора 119.7° позволяет сохранить потрясающие пейзажи и отличные групповые кадры. Сохраните свою историю и расскажите её."
+          }
+        ],
+
+        "haracteristicsData": [
+          {
+            "title": "Общие характеристики смартфона",
+            "informations": [
+              {
+                "infoTitle": "Отпечаток пальца",
+                "info": "Есть"
+              },
+              {
+                "infoTitle": "Количество и тип SIM-карты",
+                "info": "2 (Nano Sim)"
+              },
+              {
+                "infoTitle": "Вес",
+                "info": "179 g"
+              },
+              {
+                "infoTitle": "Версия ОС",
+                "info": "Android 11, MIUI 13"
+              },
+              {
+                "infoTitle": "Цвет",
+                "info": "Черный"
+              },
+              {
+                "infoTitle": "Цвет",
+                "info": "Черный"
+              }
+            ]
+          },
+          {
+            "title": "Связь",
+            "informations": [
+              {
+                "infoTitle": "NFC",
+                "info": "Есть"
+              },
+              {
+                "infoTitle": "USB",
+                "info": "USB Type-C 2.0"
+              },
+              {
+                "infoTitle": "Bluetooth",
+                "info": "5.0, A2DP, LE"
+              },
+              {
+                "infoTitle": "GPS",
+                "info": "Есть"
+              }
+            ]
+          },
+          {
+            "title": "Память и процессор смартфона",
+            "informations": [
+              {
+                "infoTitle": "Видеопроцессор",
+                "info": "Mali-G57 MC2"
+              },
+              {
+                "infoTitle": "Процессор",
+                "info": "Mediatek Helio G96 (12 nm)"
+              },
+              {
+                "infoTitle": "Объем памяти",
+                "info": "8/256 GB"
+              },
+              {
+                "infoTitle": "Частота процессора",
+                "info": "2x2.05 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55"
+              }
+            ]
+          },
+          {
+            "title": "Питание",
+            "informations": [
+              {
+                "infoTitle": "Тип разъема для зарядки",
+                "info": "USB Type-C"
+              },
+              {
+                "infoTitle": "Емкость аккумулятора",
+                "info": "Li-Po 5000 mAh battery"
+              },
+              {
+                "infoTitle": "Функция быстрой зарядки",
+                "info": "33W, 100% 58 мин (рекламируется)"
+              }
+            ]
+          },
+          {
+            "title": "Камера смартфона",
+            "informations": [
+              {
+                "infoTitle": "Видео",
+                "info": "1080p@30fps"
+              },
+              {
+                "infoTitle": "Фронтальная камера",
+                "info": "16 MP"
+              },
+              {
+                "infoTitle": "Основная камера",
+                "info": "64 MP + 8 MP + 2 MP"
+              }
+            ]
+          },
+          {
+            "title": "Дисплей смартфона",
+            "informations": [
+              {
+                "infoTitle": "Разрешениe экрана",
+                "info": "1080 x 2412"
+              },
+              {
+                "infoTitle": "Тип дисплея",
+                "info": "Fluid AMOLED, 120Hz, HDR10+"
+              },
+              {
+                "infoTitle": "Диагональ",
+                "info": "6.43"
+              },
+              {
+                "infoTitle": "Частота обновления экрана",
+                "info": "90 Гц"
+              }
+            ]
+          }
+        ],
+        "filterType": "junior-smart-tel"
+      },
+
+      {
+        "dataTitleName": "Vivo Y20s 8/128GB Nebula Blue",
+        "id": "OIfpJqU12eSjYVDV28cGck6xKpA",
+        "price": 2709000,
+        "monthPrice": 281000,
+        "guaranteePeriod": {
+          "garant": true,
+          "garantTime": 12
+        },
+        "brieflyProduct": "Вы можете купить этот товар с официальной гарантией по самой низкой цене. У вас есть возможность купить товар в рассрочку и без кредита. Есть услуга доставки. Быстрая доставка по всему Узбекистану. Делайте покупки у нас легко и быстро. Мы отобрали для Вас только лучшее, поэтому больше Вам не придется бегать по магазинам и тратить кучу времени на поиски. Все что Вам нужно, есть у нас!",
+        "memorySize": null,
+        "delivery": {
+          "thereIs": false,
+          "deliveryInf": "Доставка от 4х часов до 2 рабочих дней исходя от адреса доставки",
+          "deliveryIcon": "https://olcha.uz/_nuxt/img/deliveryicon.8c80bac.svg"
+        },
+        "dataModel": "https://olcha.uz/uploads/images/manufacturer/KK/KK/aK/1646131640.png",
+        "dataProductImages": [
+          {
+            "id": "zf3kF7c9BIpZ7ab22",
+            "imgUrl": "https://olcha.uz/image/425x425/products/zf3kF7c9BIpZ7ab22egTMWWDT6K0D93yPNubV27FOO2XstwHJBrDeIAUEldL."
+          }
+        ],
+
+        "description": [],
+
+        "haracteristicsData": [
+          {
+            "title": "Общие характеристики смартфона",
+            "informations": [
+              {
+                "infoTitle": "Отпечаток пальца",
+                "info": "Есть"
+              },
+              {
+                "infoTitle": "Количество и тип SIM-карты",
+                "info": "2 (Nano Sim)"
+              },
+              {
+                "infoTitle": "Размеры (ШxВxТ)",
+                "info": "164.4x76.3x8.4 мм"
+              },
+              {
+                "infoTitle": "Вес",
+                "info": "192.3 г"
+              },
+              {
+                "infoTitle": "Цвет",
+                "info": "Nebula Blue"
+              }
+            ]
+          },
+          {
+            "title": "Связь",
+            "informations": [
+              {
+                "infoTitle": "NFC",
+                "info": "Нет"
+              },
+              {
+                "infoTitle": "USB",
+                "info": "microUSB 2.0, USB On-The-Go"
+              },
+              {
+                "infoTitle": "Стандарт",
+                "info": "GSM / HSPA / LTE"
+              },
+              {
+                "infoTitle": "Bluetooth",
+                "info": "5.0, A2DP, LE"
+              },
+              {
+                "infoTitle": "GPS",
+                "info": "A-GPS, GLONASS, GALILEO, BDS"
+              },
+              {
+                "infoTitle": "Wi-Fi",
+                "info": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot"
+              }
+            ]
+          },
+          {
+            "title": "Память и процессор смартфона",
+            "informations": [
+              {
+                "infoTitle": "Видеопроцессор",
+                "info": "Adreno 610"
+              },
+              {
+                "infoTitle": "Процессор",
+                "info": "Qualcomm SM4250 Snapdragon 460 (11 nm)"
+              },
+              {
+                "infoTitle": "Объем оперативной памяти",
+                "info": "8 GB"
+              },
+              {
+                "infoTitle": "Объем встроенной памяти",
+                "info": "128GB"
+              },
+              {
+                "infoTitle": "Количество ядер процессора",
+                "info": "8"
+              },
+              {
+                "infoTitle": "Частота процессора",
+                "info": "4x1.8 GHz Kryo 240 & 4x1.6 GHz Kryo 240"
+              }
+            ]
+          },
+          {
+            "title": "Питание",
+            "informations": [
+              {
+                "infoTitle": "Тип разъема для зарядки",
+                "info": "Li-Po"
+              },
+              {
+                "infoTitle": "Емкость аккумулятора",
+                "info": "5000 mAh"
+              },
+              {
+                "infoTitle": "Функция быстрой зарядки",
+                "info": "Fast charging 18W"
+              }
+            ]
+          },
+          {
+            "title": "Камера смартфона",
+            "informations": [
+              {
+                "infoTitle": "Видео",
+                "info": "1080p@30fps"
+              },
+              {
+                "infoTitle": "Фронтальная камера",
+                "info": "8 MP"
+              },
+              {
+                "infoTitle": "Основная камера",
+                "info": "13 MP + 2 MP + 2 MP"
+              }
+            ]
+          },
+          {
+            "title": "Дисплей смартфона",
+            "informations": [
+              {
+                "infoTitle": "Разрешениe экрана",
+                "info": "720 x 1600 pix"
+              },
+              {
+                "infoTitle": "Тип дисплея",
+                "info": "IPS LCD"
+              },
+              {
+                "infoTitle": "Диагональ",
+                "info": "6.51"
+              },
+              {
+                "infoTitle": "PPI",
+                "info": "270"
+              },
+              {
+                "infoTitle": "Тип дисплея",
+                "info": "IPS LCD"
+              }
+            ]
+          }
+        ],
+        "filterType": "junior-smart-tel"
+      },
+
+      {
+        "dataTitleName": "Realme GT Master Edition 5G 6/128GB Daybreak blue",
+        "id": "OIfpJqU12eSjYVDV28cGck6xKpA",
+        "price": 3960000,
+        "monthPrice": 792000,
+        "guaranteePeriod": {
+          "garant": true,
+          "garantTime": 12
+        },
+        "brieflyProduct": "Наша жизнь - большое приключение Познайте окружающий мир и себя Получайте новые эмоции в повседневных событиях realme GT Master Edition Дизайн от Наото Фукасавы Храните теплые воспоминания о путешествиях Используйте эксклюзивный режим 'Улица' для съемки в жанре стрит стайл Оставайтесь любопытными. Не прекращайте двигаться. Дизайн от наото фукасава realme GT Master Edition, созданный Наото Фукасавой, получил награду iF Design Award 2021 года. Премия iF Design Award, или сокращенно iF, была учреждена в 1953 году и является 'Оскаром' промышленного дизайна",
+        "memorySize": null,
+        "delivery": {
+          "thereIs": true,
+          "deliveryInf": "Доставка от 4х часов до 2 рабочих дней исходя от адреса доставки",
+          "deliveryIcon": "https://olcha.uz/_nuxt/img/deliveryicon.8c80bac.svg"
+        },
+        "dataModel": "https://olcha.uz/uploads/images/manufacturer/KK/KK/aW/1628580571.png",
+        "dataProductImages": [
+          {
+            "id": "vytFDY8xTJ2xMTfon3rtaRRA9",
+            "imgUrl": "https://olcha.uz/image/425x425/products/vytFDY8xTJ2xMTfon3rtaRRA9WYdGo87B5WFpegZYquJi3dcPCtkGS5OgiGY."
+          },
+          {
+            "id": "TqzUb1YC5KNgoyI1fC",
+            "imgUrl": "https://olcha.uz/image/425x425/products/wZw4tDxnhtpYsPZQBxgSccIPBC2S9ec96Lsre5dTqzUb1YC5KNgoyI1fClPc."
+          },
+          {
+            "id": "CeswfU8Y40UykLSTUzWZE",
+            "imgUrl": "https://olcha.uz/image/425x425/products/MJoVsf0HsEroOL0IHCeswfU8Y40UykLSTUzWZE6YaQYwXoSa53BlfZ7lcWYp."
+          },
+          {
+            "id": "0UykLSTUzWZE6YaQYwXoSa53B",
+            "imgUrl": "https://olcha.uz/image/425x425/products/MJoVsf0HsEroOL0IHCeswfU8Y40UykLSTUzWZE6YaQYwXoSa53BlfZ7lcWYp."
+          }
+        ],
+
+        "description": [
+          {
+            "descTitle": "Откройте для себя больше возможностей",
+            "desc": "Новый процессор QUALCOMM 778G Производительному процессору нужны хорошие программные компоненты для максимальной реализации потенциала смартфона. Мощная комбинация аппаратной части и фирменного программного обеспечения GT Master Edition - достижение исключительного игрового опыта. Тройная ai-камера 64 МП И селфи камера 32 МП Камеры смартфона realme GT Master Edition гарантируют пользователю высокое разрешение, максимальную детализацию снимков и самый актуальный список фоторежимов для достижения наилучшего пользовательского опыта съемки художественной фотографии. Быстрая зарядка SUPERDART 65 ВТ Фирменная технология быстрой зарядки SuperDart Charge 65 Вт обеспечивает быструю и безопасную зарядку смартфона. Сетевое зарядное устройство быстрой зарядки входит в комплектацию смартфона."
+          }
+        ],
+
+        "haracteristicsData": [
+          {
+            "title": "Общие характеристики смартфона",
+            "informations": [
+              {
+                "infoTitle": "Отпечаток пальца",
+                "info": "Есть"
+              },
+              {
+                "infoTitle": "Количество и тип SIM-карты",
+                "info": "Dual SIM (Nano-SIM, dual stand-by)"
+              },
+              {
+                "infoTitle": "Размеры (ШxВxТ)",
+                "info": "73.5x159.2x8 мм"
+              },
+              {
+                "infoTitle": "Вес",
+                "info": "180 г"
+              },
+              {
+                "infoTitle": "Материал корпуса",
+                "info": "пластик"
+              },
+              {
+                "infoTitle": "Версия ОС",
+                "info": "Android 11, Realme UI 2.0"
+              }
+            ]
+          },
+          {
+            "title": "Связь",
+            "informations": [
+              {
+                "infoTitle": "NFC",
+                "info": "Есть"
+              },
+              {
+                "infoTitle": "USB",
+                "info": "USB Type-C 2.0, USB On-The-Go"
+              },
+              {
+                "infoTitle": "Стандарт",
+                "info": "GSM / CDMA / HSPA / EVDO / LTE / 5G"
+              },
+              {
+                "infoTitle": "Bluetooth",
+                "info": "5.2, A2DP, LE"
+              },
+              {
+                "infoTitle": "GPS",
+                "info": "A-GPS, GLONASS, GALILEO, BDS"
+              },
+              {
+                "infoTitle": "Wi-Fi",
+                "info": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct, hotspot"
+              },
+              {
+                "infoTitle": "Спутниковая навигация",
+                "info": "A-GPS, GLONASS, GALILEO, BDS, QZSS"
+              }
+            ]
+          },
+          {
+            "title": "Память и процессор смартфона",
+            "informations": [
+              {
+                "infoTitle": "Видеопроцессор",
+                "info": "Adreno 642"
+              },
+              {
+                "infoTitle": "Процессор",
+                "info": "Qualcomm SM7325 Snapdragon 778G 5G (6 нм)"
+              },
+              {
+                "infoTitle": "Объем оперативной памяти",
+                "info": "6 GB"
+              },
+              {
+                "infoTitle": "Объем встроенной памяти",
+                "info": "128 GB"
+              },
+              {
+                "infoTitle": "Количество ядер процессора",
+                "info": "8"
+              },
+              {
+                "infoTitle": "Частота процессора",
+                "info": "4 x 2.4 ГГц + 4 x 1.9 ГГц"
+              }
+            ]
+          },
+          {
+            "title": "Питание",
+            "informations": [
+              {
+                "infoTitle": "Тип разъема для зарядки",
+                "info": "USB Type-C"
+              },
+              {
+                "infoTitle": "Емкость аккумулятора",
+                "info": "4300 mAh"
+              },
+              {
+                "infoTitle": "Функция быстрой зарядки",
+                "info": "Fast charging 65W, 100% in 33 min (advertised)"
+              },
+              {
+                "infoTitle": "Тип аккумулятора",
+                "info": "Li-Po"
+              }
+            ]
+          },
+          {
+            "title": "Камера смартфона",
+            "informations": [
+              {
+                "infoTitle": "Видео",
+                "info": "4K@30fps, 1080p@30/60fps, gyro-EIS@30fps"
+              },
+              {
+                "infoTitle": "Фронтальная камера",
+                "info": "32 MP"
+              },
+              {
+                "infoTitle": "Основная камера",
+                "info": "64 MP + 8 MP + 2 MP"
+              },
+              {
+                "infoTitle": "Фотовспышка",
+                "info": "LED светодиодная"
+              }
+            ]
+          },
+          {
+            "title": "Дисплей смартфона",
+            "informations": [
+              {
+                "infoTitle": "Разрешениe экрана",
+                "info": "2400x1080"
+              },
+              {
+                "infoTitle": "Тип дисплея",
+                "info": "Super AMOLED"
+              },
+              {
+                "infoTitle": "Диагональ",
+                "info": "6.43"
+              },
+              {
+                "infoTitle": "PPI",
+                "info": "409"
+              },
+              {
+                "infoTitle": "Соотношение сторон",
+                "info": "20:9"
+              }
+            ]
+          }
+        ],
+        "filterType": "middle-smart-tel"
+      }
+    ]
+  },
+
+  "aksessuary": {
+    "contentTitle": "Аксессуары",
+    "data": [
+      {
+        "dataTitleName": "Беспроводные наушники Green Lion True Earbuds",
+        "id": "qaaa21BYsVafARjyFQYg",
+        "price": 479000,
+        "monthPrice": 62000,
+        "guaranteePeriod": {
+          "garant": true,
+          "garantTime": 1
+        },
+        "brieflyProduct": "Настоящие беспроводные Bluetooth-наушники со встроенным микрофоном и чехлом для зарядки Pure Sound Base с сенсорным датчиком Переключатель Comfort Fit Free Free Berlin Protective Case White Настоящие беспроводные наушники обеспечивают захватывающее прослушивание с превосходным качеством звука и активным шумоподавлением. Что еще более важно, несмотря на то, что они разработаны с использованием экологически чистых и переработанных материалов, аккумулятор, который переживает ваш самый длинный список воспроизведения, и устойчивость к погодным условиям для дополнительного спокойствия.",
+        "memorySize": null,
+        "delivery": {
+          "thereIs": false,
+          "deliveryInf": "Доставка от 4х часов до 2 рабочих дней исходя от адреса доставки",
+          "deliveryIcon": "https://olcha.uz/_nuxt/img/deliveryicon.8c80bac.svg"
+        },
+        "dataModel": "https://olcha.uz/uploads/images/manufacturer/KK/KK/69/1650973180.jpg",
+        "dataProductImages": [
+          {
+            "id": "fI9az3tro77tF3",
+            "imgUrl": "https://olcha.uz/image/425x425/products/kAkHsNXJEfI9az3tro77tF3cCpyFlgnCbUVy1nQmDVkxqT1NzzIIXTb3hEHl."
+          },
+          {
+            "id": "FL0z3CGXXaK6",
+            "imgUrl": "https://olcha.uz/image/425x425/products/NMAASDxrsoFL0z3CGXXaK62GjURtfY8aWyeuLHdPffNeL8j7QE1MQtSdgBgV."
+          },
+          {
+            "id": "scxnYmJmPPP40qt3DVh",
+            "imgUrl": "https://olcha.uz/image/425x425/products/kI18p9DI7VG5QRSivQuYscxnYmJmPPP40qt3DVhhXRKnjaP47ngkBp6aiZjO."
+          }
+        ],
+
+        "description": [
+          {
+            "descTitle": "Откройте для себя больше возможностей",
+            "desc": "Настоящие беспроводные Bluetooth-наушники со встроенным микрофоном и чехлом для зарядки Pure Sound Base"
+          }
+        ],
+
+        "haracteristicsData": [
+          {
+            "title": "Общие характеристики гарнитур.",
+            "informations": [
+              {
+                "infoTitle": "Время зарядки",
+                "info": "2 ч"
+              },
+              {
+                "infoTitle": "Микрофон",
+                "info": "Есть"
+              },
+              {
+                "infoTitle": "Тип",
+                "info": "Беспроводные наушники"
+              },
+              {
+                "infoTitle": "Версия Bluetooth",
+                "info": "5.0"
+              },
+              {
+                "infoTitle": "Цвет",
+                "info": "Белый"
+              },
+              {
+                "infoTitle": "В режиме ожидания",
+                "info": "100 часов"
+              }
+            ]
+          }
+        ],
+        "filterType": "senior-aksess-tel"
+      },
+
+      {
+        "dataTitleName": "Наушники Yesido YH13",
+        "id": "121saz3tro77tF3cnC",
+        "price": 279000,
+        "monthPrice": 37000,
+        "guaranteePeriod": {
+          "garant": true,
+          "garantTime": 1
+        },
+        "brieflyProduct": "Оригинальный высококачественный проводного динамик спортивные наушники для , гарнитура, наушники с проводом Особенности: модный внешний вид, пластиковый корпус стереозвуки, помогают четко слушать Бесшумная работа, избегайте помех TPE провод, анти-обмотка, анти-растяжение. с многофункциональным пультом дистанционного управления",
+        "memorySize": null,
+        "delivery": {
+          "thereIs": false,
+          "deliveryInf": "Доставка от 4х часов до 2 рабочих дней исходя от адреса доставки",
+          "deliveryIcon": "https://olcha.uz/_nuxt/img/deliveryicon.8c80bac.svg"
+        },
+        "dataModel": "https://olcha.uz/uploads/images/manufacturer/KK/KK/3-/1650701468.png",
+        "dataProductImages": [
+          {
+            "id": "eqxtqmiZRnAKLceR2uf",
+            "imgUrl": "https://olcha.uz/image/425x425/products/8tD9Rj4jw1R82lieeqxtqmiZRnAKLceR2ufw9oZxDvjkUTQZSUZJvu3Kn5oh."
+          },
+          {
+            "id": "cpwAO3VezGjh15",
+            "imgUrl": "https://olcha.uz/image/425x425/products/3vgBCKNpurXXnnFhIqPm3cpwAO3VezGjh15tGP3EgzlllPRRkVxuDQ3ElsMJ."
+          },
+          {
+            "id": "scxnYmJmPPP40qt3DVh",
+            "imgUrl": "https://olcha.uz/image/425x425/products/kI18p9DI7VG5QRSivQuYscxnYmJmPPP40qt3DVhhXRKnjaP47ngkBp6aiZjO."
+          }
+        ],
+
+        "description": [
+          {
+            "descTitle": "Откройте для себя больше возможностей",
+            "desc": "Оригинальный высококачественный проводного динамик спортивные наушники для , гарнитура, наушники с проводом Особенности: модный внешний вид, пластиковый корпус стереозвуки, помогают четко слушать Бесшумная работа, избегайте помех TPE провод, анти-обмотка, анти-растяжение. с многофункциональным пультом дистанционного управления"
+          }
+        ],
+
+        "haracteristicsData": [
+          {
+            "title": "Общие характеристики гарнитур.",
+            "informations": [
+              {
+                "infoTitle": "Тип наушников",
+                "info": "Наушники накладные беспроводные"
+              },
+              {
+                "infoTitle": "Цвет",
+                "info": "Чёрный"
+              }
+            ]
+          }
+        ],
+        "filterType": "middle-aksess-tel"
+      },
+
+      {
+        "dataTitleName": "Стабилизатор Capture 2s",
+        "id": "121saz3tro77tF3cnC",
+        "price": 758000,
+        "monthPrice": 98000,
+        "guaranteePeriod": {
+          "garant": true,
+          "garantTime": 1
+        },
+        "brieflyProduct": "В этом стабилизаторе используется интеллектуальная система стабилизации 5-го поколения, которая постоянно регулирует и компенсирует положение телефона во время движения, значительно уменьшая дрожание изображения и позволяя запечатлеть великолепные моменты. Функции: Легко использовать Установите телефон, без ручного винта, осторожно вытащить Вы можете приостановить или начать запись в любое время.",
+        "memorySize": null,
+        "delivery": {
+          "thereIs": false,
+          "deliveryInf": "Доставка от 4х часов до 2 рабочих дней исходя от адреса доставки",
+          "deliveryIcon": "https://olcha.uz/_nuxt/img/deliveryicon.8c80bac.svg"
+        },
+        "dataModel": "https://olcha.uz/uploads/images/manufacturer/KK/KK/Bs/1644645853.png",
+        "dataProductImages": [
+          {
+            "id": "boepoiaMDNdqR",
+            "imgUrl": "https://olcha.uz/image/425x425/products/IuIDf6bXtRXaxWZm3XaLBa98Us1nboepoiaMDNdqR4yOObpgSuYqaBEiE0HT."
+          },
+          {
+            "id": "EyC0dpvzQXEjp",
+            "imgUrl": "https://olcha.uz/image/425x425/products/wHPqdXwMOx14NC3xW99RynPUliyNEJNJKDwCEyC0dpvzQXEjpvieQrZ8s7E5."
+          },
+          {
+            "id": "yRq0njVtLnsS1Y",
+            "imgUrl": "https://olcha.uz/image/425x425/products/d6z42WMrZFYMuBz86gBmrxsJ7KAeSYByRq0njVtLnsS1YhhvgAXTfaPCAS36."
+          },
+          {
+            "id": "cFJi7rHQMGA544v",
+            "imgUrl": "https://olcha.uz/image/425x425/products/7KpjvPZidYIFl8m20cdEQC5OYLcjgGhDFt5HtcFJi7rHQMGA544vgI9FDVfn."
+          }
+        ],
+
+        "description": [
+          {
+            "descTitle": "Откройте для себя больше возможностей",
+            "desc": "В режимах FPV вы можете создать объект, который хотите отслеживать, на экране. Быстро реагируйте на каждое деликатное движение без промедления. Алгоритмы автоматической блокировки лица AI, никогда не теряйте след, более привлекательные селфи. Основанный на практическом применении покадровой фотографии, он поддерживает все виды передовых методов фотографии, развивает более богатые специальные эффекты. Задержка движения, задержка траектории."
+          }
+        ],
+
+        "haracteristicsData": [
+          {
+            "title": "Общие характеристики гарнитур.",
+            "informations": [
+              {
+                "infoTitle": "Время зарядки",
+                "info": "2.5 ч"
+              },
+              {
+                "infoTitle": "Микрофон",
+                "info": "Есть"
+              },
+              {
+                "infoTitle": "Емкость аккумулятора",
+                "info": "2000 мА*ч"
+              },
+              {
+                "infoTitle": "Материал",
+                "info": "ABS"
+              },
+              {
+                "infoTitle": "Цвет",
+                "info": "Чёрный"
+              }
+            ]
+          }
+        ],
+        "filterType": "senior-aksess-tel"
+      },
+
+      {
+        "dataTitleName": "Кабель Baseus Cafule USB Type-C 2-in-1 PD Cable 1.2m",
+        "id": "1nboepoiaMDNdqR4yOObpgSuY",
+        "price": 55000,
+        "monthPrice": null,
+        "guaranteePeriod": {
+          "garant": false,
+          "garantTime": null
+        },
+        "brieflyProduct": "Быстрая и безопасная зарядка - 18 Вт и толстые медные провода внутри кабеля являются гарантией быстрого и безопасного восстановления энергии. USB-A и Type-C + Lightning, через которые смартфон подключается ко многим устройствам, таким как ноутбуки, настольные компьютеры, зарядные устройства с портом USB-C / USB-A. Передача данных со скоростью 480 Мбит / с, благодаря которой мы можем быстро передавать фильмы, документы, музыку или фотографии на наш ноутбук.",
+        "memorySize": null,
+        "delivery": {
+          "thereIs": false,
+          "deliveryInf": "Доставка от 4х часов до 2 рабочих дней исходя от адреса доставки",
+          "deliveryIcon": "https://olcha.uz/_nuxt/img/deliveryicon.8c80bac.svg"
+        },
+        "dataModel": "https://olcha.uz/uploads/images/manufacturer/KK/KK/dZ/1646745830.jpg",
+        "dataProductImages": [
+          {
+            "id": "DaWIpknOkjntWYaVF",
+            "imgUrl": "https://olcha.uz/image/425x425/products/iP8GJkIKCPXVvrWlEdEXjhmiiByCDaWIpknOkjntWYaVFzbarKbq2A6SXHHC."
+          }
+        ],
+
+        "description": [
+          {
+            "descTitle": "Самая критическая точка каждого кабеля ",
+            "desc": "Самая критическая точка каждого кабеля - подключение кабеля к штекеру, была дополнительно усилена гибким ПВХ для предотвращения повреждения. Этот материал характеризуется превосходной гибкостью, долговечностью, устойчив к атмосферным воздействиям и непроницаем для воды. Штекер устойчив к окислению. Даже после многих подключений штекеры все равно будут плавно и надежно подключаться к портам. Плетеная ткань из нейлонового волокна, плотно обернутая вокруг кабеля, обеспечивает дополнительную защиту, гибкость и прочность. Конструкция помогает уменьшить износ и повышает долговечность. Кабель также заботится о телефоне и батарее. Используя улучшенную интеллектуальную технологию зарядки, он предотвращает перезарядку смартфона, обеспечивает стабильный ток и помогает продлить срок службы батареи. Используйте устройство свободно во время зарядки, не опасаясь его повреждения."
+          }
+        ],
+
+        "haracteristicsData": [
+          {
+            "title": "Кабель",
+            "informations": [
+              {
+                "infoTitle": "Коннекторы",
+                "info": "Type-C/Lighting"
+              },
+              {
+                "infoTitle": "Длина",
+                "info": "1.2 м"
+              },
+              {
+                "infoTitle": "Коннекторы",
+                "info": "USB, USB Type C"
+              },
+              {
+                "infoTitle": "Тип",
+                "info": "Кабель"
+              },
+              {
+                "infoTitle": "Цвет",
+                "info": "Чёрный"
+              }
+            ]
+          }
+        ],
+        "filterType": "junior-aksess-tel"
+      },
+
+      {
+        "dataTitleName": "Портативная колонка Awei Y500",
+        "id": "21saWIpknOkjnVFzbarKbq2",
+        "price": 446000,
+        "monthPrice": 58000,
+        "guaranteePeriod": {
+          "garant": false,
+          "garantTime": null
+        },
+        "brieflyProduct": "Крупнейший онлайн-магазин, где представлены тысячи модели товаров с подробными описаниями, фотографиями и характеристиками. На сайте продается огромное количество разнообразных товаров: книги, игрушки, электроника, одежда, аксессуары и многое другое, которые отличаются качеством и низкой стоимостью. К тому же, мы позаботимся обо всех деталях пересылки и покупки и просто привезем вашу покупку к вам домой.",
+        "memorySize": null,
+        "delivery": {
+          "thereIs": false,
+          "deliveryInf": "Доставка от 4х часов до 2 рабочих дней исходя от адреса доставки",
+          "deliveryIcon": "https://olcha.uz/_nuxt/img/deliveryicon.8c80bac.svg"
+        },
+        "dataModel": "https://olcha.uz/uploads/images/manufacturer/KK/KK/_n/1628747233.png",
+        "dataProductImages": [
+          {
+            "id": "40hw0rvZIifYNnwSuyLGy",
+            "imgUrl": "https://olcha.uz/image/425x425/products/4mUCFsJ4AG50xtgALBt08Av040hw0rvZIifYNnwSuyLGyVd2XQpa3u9mL6l4."
+          },
+          {
+            "id": "mSYAn1JQpeWvPgcaa",
+            "imgUrl": "https://olcha.uz/image/425x425/products/BCsjxz5mw3jKxjw2NWX9JHSJqKWnhoGQGBgVDmSYAn1JQpeWvPgcaaEpB1q4."
+          },
+          {
+            "id": "zEAF9sz7q2UpVE6MaKp",
+            "imgUrl": "https://olcha.uz/image/425x425/products/zEAF9sz7q2UpVE6MaKpNjTZP3fq3Z6Ce1DoNUYt7qE9430ER4q8feqcsI0vV."
+          }
+        ],
+
+        "description": [],
+
+        "haracteristicsData": [
+          {
+            "title": "Основные характеристики акустики",
+            "informations": [
+              {
+                "infoTitle": "Питание",
+                "info": "автономное"
+              },
+              {
+                "infoTitle": "Мощность",
+                "info": "5 Вт"
+              },
+              {
+                "infoTitle": "Беспроводная связь",
+                "info": "Bluetooth"
+              },
+              {
+                "infoTitle": "Максимальная воспроизводимая частота",
+                "info": "18000 Гц"
+              },
+              {
+                "infoTitle": "Версия Bluetooth",
+                "info": "V5.0"
+              },
+              {
+                "infoTitle": "Минимальная воспроизводимая частота",
+                "info": "100 Гц"
+              },
+              {
+                "infoTitle": "Время воспроизведения музыки",
+                "info": "6-7 ч"
+              },
+              {
+                "infoTitle": "Размер",
+                "info": "60x63x60 мм"
+              },
+              {
+                "infoTitle": "Емкость батареи",
+                "info": "650 mAh"
+              }
+            ]
+          }
+        ],
+        "filterType": "senior-aksess-tel"
+      },
+
+      {
+        "dataTitleName": "Кабель Borofone BX48 Черный USB Type-C",
+        "id": "21saWIpknOkjnVFzbarKbq2",
+        "price": 56000,
+        "monthPrice": 8000,
+        "guaranteePeriod": {
+          "garant": false,
+          "garantTime": null
+        },
+        "brieflyProduct": "BX48 - это высококачественный кабель от бренда Borofone. Стильный современный дизайн, а так же прочная тканевая оплетка - все это выделяет данный кабель среди остальных. Данный кабель подойдет как для зарядки, так и для передачи данных с любых устройств с подходящими разъемами. Делайте покупки у нас легко и быстро. Мы отобрали для Вас только лучшее, поэтому больше Вам не придется бегать по магазинам и тратить кучу времени на поиски. Все что Вам нужно, есть у нас!",
+        "memorySize": null,
+        "delivery": {
+          "thereIs": false,
+          "deliveryInf": "Доставка от 4х часов до 2 рабочих дней исходя от адреса доставки",
+          "deliveryIcon": "https://olcha.uz/_nuxt/img/deliveryicon.8c80bac.svg"
+        },
+        "dataModel": "https://olcha.uz/uploads/images/manufacturer/KK/KK/_G/1643351939.png",
+        "dataProductImages": [
+          {
+            "id": "JdnqWekfIr1TvOLYfv",
+            "imgUrl": "https://olcha.uz/image/425x425/products/bSWwfcLMNSE8oeVAWo0VH0IbdGGDEj30vJdnqWekfIr1TvOLYfv9mkKCMsqE."
+          },
+          {
+            "id": "sBocmaZNXn",
+            "imgUrl": "https://olcha.uz/image/425x425/products/0xl3VONqeFNZti7HyHN7UtLaAzpiZbHzZbcvd3ysBocmaZNXnpBZm5ZMmPqW."
+          },
+          {
+            "id": "PLNEbTJ8BlDIr",
+            "imgUrl": "https://olcha.uz/image/425x425/products/OnOY4BQUIeTzrgwNlYDOGtF2YfDmhf0iPLNEbTJ8BlDIrDXtLSQ2Du4HiOgn."
+          }
+        ],
+
+        "description": [],
+
+        "haracteristicsData": [
+          {
+            "title": "Кабель",
+            "informations": [
+              {
+                "infoTitle": "Длина",
+                "info": "1 m"
+              },
+              {
+                "infoTitle": "Цвет",
+                "info": "Черный"
+              },
+              {
+                "infoTitle": "Вес",
+                "info": "17 г"
+              },
+              {
+                "infoTitle": "Разъем 2",
+                "info": "Type-C"
+              },
+              {
+                "infoTitle": "Материал",
+                "info": "PVC"
+              },
+              {
+                "infoTitle": "Разъем 1",
+                "info": "USB"
+              }
+            ]
+          }
+        ],
+        "filterType": "junior-aksess-tel"
+      },
+
+      {
+        "dataTitleName": "Беспроводные наушники Borofone BW05",
+        "id": "21snqWekfITvOLs21v",
+        "price": 206000,
+        "monthPrice": 27000,
+        "guaranteePeriod": {
+          "garant": true,
+          "garantTime": 1
+        },
+        "brieflyProduct": "Bluetooth 5.1; Чип: JL AC6983 2. Емкость аккумулятора: зарядный отсек 250 мАч, наушники 30 мАч. 3. Время разговора / музыки: 4 часа, в режиме ожидания 120 часов 4. Размер: 55 * 47 * 23 мм; общий вес: 34 г 5. Зарядный отсек автоматически включается при открытии крышки, поддерживает переключение «главный-подчиненный», вызывает Siri, а в зарядном отсеке есть светодиодный цифровой дисплей мощности ».",
+        "memorySize": null,
+        "delivery": {
+          "thereIs": false,
+          "deliveryInf": "Доставка от 4х часов до 2 рабочих дней исходя от адреса доставки",
+          "deliveryIcon": "https://olcha.uz/_nuxt/img/deliveryicon.8c80bac.svg"
+        },
+        "dataModel": "https://olcha.uz/uploads/images/manufacturer/KK/KK/_G/1643351939.png",
+        "dataProductImages": [
+          {
+            "id": "aosSu2YDIbLMPvg3",
+            "imgUrl": "https://olcha.uz/image/425x425/products/EQXuaNxQM0PUZJdPB6eTW0aosSu2YDIbLMPvg35EBokpkCJzJG6YfUdMVLi7."
+          },
+          {
+            "id": "STJPBoH1bMXbN",
+            "imgUrl": "https://olcha.uz/image/425x425/products/A6fJgW338VX5uMnj6kx8zrkCeJ4TfwPAFhBJSTJPBoH1bMXbNK6Pcvmt9pe2."
+          },
+          {
+            "id": "SZllbwfeQxi0ITBc4kJ",
+            "imgUrl": "https://olcha.uz/image/425x425/products/65mA7HDwd32KbbNISZllbwfeQxi0ITBc4kJZqE1kyLszwWJjuRPc4pb6hZKJ."
+          }
+        ],
+
+        "description": [],
+
+        "haracteristicsData": [
+          {
+            "title": "Общие характеристики гарнитур.",
+            "informations": [
+              {
+                "infoTitle": "Управление",
+                "info": "Сенсорное"
+              },
+              {
+                "infoTitle": "Тип наушников",
+                "info": "Вставные"
+              },
+              {
+                "infoTitle": "Тип беспроводного соединения",
+                "info": "Bluetooth"
+              },
+              {
+                "infoTitle": "Цвет",
+                "info": "Белый"
+              },
+              {
+                "infoTitle": "Материал",
+                "info": "пластик"
+              },
+              {
+                "infoTitle": "В режиме звонков / музыки",
+                "info": "4 часа"
+              },
+              {
+                "infoTitle": "В режиме ожидания",
+                "info": "72 часа"
+              }
+            ]
+          }
+        ],
+        "filterType": "middle-aksess-tel"
       }
     ]
   }
